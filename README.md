@@ -135,8 +135,11 @@ Node.JS Intermediate level
 Experience with designing distributed systems
 
 2.Tools
+
 Node.js: Download Node.JS
+
 Docker: Download Docker
+
 VsCode: Download VSCode
 
  # Commands:
@@ -251,6 +254,7 @@ node consumer.js <GROUP_NAME>
 node producer.js
 
 > tony north
+> 
 > tony south
 
 
